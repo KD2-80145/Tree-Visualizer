@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	/* background-color: rgb(17, 20, 28); */
+	background-color: #001524;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	padding: 0.4rem;
+}
+
+input {
+	padding: 0.4rem;
+	margin: 0 1rem;
+}
+
+button {
+	padding: 0.4rem;
+	background: transparent;
+	border: 1px solid rgb(254, 249, 195);
+	color: rgb(254, 249, 195);
+	border-radius: 5px;
+	cursor: pointer;
+}
